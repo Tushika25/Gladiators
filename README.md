@@ -5,7 +5,7 @@ Project Submission:
 
 Teams Clone : Gladiators! (A platform where you can video call, code and draw together)
 
-Hosted on 
+Hosted on https://suhanaaaina.wixsite.com/gladiators
 
 
 # Features :
