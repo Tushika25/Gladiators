@@ -1,1 +1,1 @@
-web: gunicorn app:gladiator25
+web: gunicorn app:app
