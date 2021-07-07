@@ -1,0 +1,57 @@
+html, body {
+    height: 100%;
+    color: black;
+}
+
+.main-heading {
+    margin: 0 20% 0 20%;
+    padding: 30px;
+}
+
+#ide-heading {
+    font-size: 30px;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#editor {
+    height: 100%;
+}
+
+.submit-container {
+    height: 300px;
+    flex: 0 0 50%;
+    border-right: 7px solid rgb(233, 233, 233);
+    padding-right: 30px;
+}
+
+.ide-output {
+    height: 60%;
+    margin-left: 20px;
+    flex: 1;
+}
+
+textarea {
+    resize: none;
+    width: 100%;
+}
+
+.submit {
+    text-align: right;
+    padding-top: 15px;
+}
+
+#time-memo {
+    text-align: left;
+}
+
+#submit-btn {
+    margin-left: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-heading {
+        margin: 0 15% 0 15%;
+    }
+}
