@@ -13,9 +13,12 @@ Hosted on https://suhanaaaina.wixsite.com/gladiators
 - Video Call Feature : Allows multiple people to connect to rooms and talk to each other.
 - Screen Sharing Feature : Gladiators also allows you to share screen during the video call.
 - Chat Feature : There is also a chat feature which allows you to send text messages to each other.
-- Live Coding : A coding IDE where all the people connected to a room can code simultaneously.
-- Code IDE with syntax highlighting : Allows you to choose from a set of 5 languages and compilers, and highlights syntax on the basis of them. Also takes in customized input, runs the code and gives output.
-- Drawing palette : The interface also consists of a whiteboard which all the members in the room can use to draw stuff. The whiteboard also contains multiple features like colorful pens, pens of different sizes, clear canvas, redo and undo drawing options.
+- No.of participants Feature: Shows total number of participants in the room.
+- Active Participants Feature: shows the participants name who are active in the room.
+- Live Coding Feature: A coding IDE where all the people connected to a room can code simultaneously.
+- Code IDE with syntax highlighting Feature: Allows you to choose from a set of multiple languages and compilers, and highlights syntax on the basis of them. Also takes in customized input, runs the code and gives output.
+- Drawing palette Feature: The interface also consists of a whiteboard which all the members in the room can use to draw stuff. 
+- The whiteboard also contains multiple features like colorful pens, pens of different sizes, clear canvas, redo and undo drawing options.
 
 
 # Implementation Details :
