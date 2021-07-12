@@ -27,7 +27,8 @@ Hosted on https://www.gladiatorswin.com/
 - The whiteboard also contains multiple features like colorful pens, pens of different sizes, clear canvas, redo and undo drawing options.
 
 Total Number of incorporated features : 14.
-For detailed Demo and complete documentation refer to the 'Documentation' file in the repo.
+
+### For detailed Demo and complete documentation refer to the 'Documentation_Gladiators' file in the repo.
 
 # Video page :
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Video%20page.png)
@@ -55,6 +56,8 @@ The first thing done was planning for the course of 4 weeks. The plan implemente
 The following mural image shows the whole summary of 4 weeks.
 
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/agile%20(2).png)
+
+
 # How to run the project
 
 - Clone the project
