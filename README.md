@@ -3,7 +3,7 @@
 
 
 Teams Clone : Gladiators! 
-A project built understanding tough situations faced by teachers, students and professionals during video meetings and solve them.
+(A project built understanding tough situations faced by teachers, students and professionals during video meetings and solve them.)
 
 Hosted on https://www.gladiatorswin.com/
 
