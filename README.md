@@ -16,6 +16,7 @@ Hosted on https://www.gladiatorswin.com/
 # Features :
 
 - Video Call Feature : Allows multiple people to connect to rooms and talk to each other.
+- Room creation Feature: Creates room for different set of people as per their requirements.
 - Screen Sharing Feature : Gladiators also allows you to share screen during the video call.
 - Chat Feature : There is also a chat feature which allows you to send text messages to each other.
 - No.of participants Feature: Shows total number of participants in the room.
@@ -37,7 +38,7 @@ For detailed Demo and complete documentation refer to the 'Documentation' file i
 Main Backend : Python Flask;
 FrontEnd : HTML + CSS + JS
 
-- Video call feature is implemented using Twilio API and WebRTC Technology, which is one of the easiest and the best ways to implement webRTC in python (flask)
+- Video call feature is implemented using Twilio API and WebRTC Technology, so as to implement webRTC in python (flask)
 - Live coding is implemented using cloud firestore of Google Firebase which makes the changes in real time.
 - Coding IDE is based on Ace.js javascript library, and executing is done using Judge0 API hosted on sntc servers.
 - Drawing Palette is implemented using WebSockets technology.
