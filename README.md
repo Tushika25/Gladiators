@@ -1,11 +1,11 @@
 # Gladiators
 # microsoftEngage_2021
 
-Project Submission:
 
-Teams Clone : Gladiators! (A platform where you can video call, code and draw together)
+Teams Clone : Gladiators! 
+A project built understanding tough situations faced by teachers, students and professionals during video meetings and solve them.
 
-Hosted on https://suhanaaaina.wixsite.com/gladiators
+Hosted on https://www.gladiatorswin.com/
 
 # Main Website 
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Main%20website.png)
