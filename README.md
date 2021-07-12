@@ -48,10 +48,10 @@ FrontEnd : HTML + CSS + JS
 # Agile Methodologies Used : 
 
 The first thing done was planning for the course of 4 weeks. The plan implemented took into account the SCRUM process wherein the whole process was broken down into 3 important parts. 
-•	Software devcycle: This part included dividing the time period into Sprints of 1-2 weeks each. Each sprint was planned beforehand at the start (Sprint planning). I devoted the first two weeks (first sprint) in writing the starting code and making a basic layout of the product web app with few basic and the most important features. 
-•	Work Breakdown: This part includes solving bugs and incorporating deliverables. I devoted the third week (second sprint) in solving the bugs I faced (one was in the code IDE and other one in the screen sharing) thus working on Product Backlogs. I gave the fourth week (last sprint) to incorporating few new features and trying to incorporate the adapt feature into my web app.
-•	Roles and responsibilities: SCRUM recognizes in teams, 2 groups of members. During my project I was the person who was managing both the chicken and pig team by doing the managerial aspects and code part of the project.
-Also, another process of agile methodology allowed me to write code that didn’t require much changes so as to incorporate new features. 
+-	Software devcycle: This part included dividing the time period into Sprints of 1-2 weeks each. Each sprint was planned beforehand at the start (Sprint planning). I devoted the first two weeks (first sprint) in writing the starting code and making a basic layout of the product web app with few basic and the most important features. 
+-	Work Breakdown: This part includes solving bugs and incorporating deliverables. I devoted the third week (second sprint) in solving the bugs I faced (one was in the code IDE and other one in the screen sharing) thus working on Product Backlogs. I gave the fourth week (last sprint) to incorporating few new features and trying to incorporate the adapt feature into my web app.
+-	Roles and responsibilities: SCRUM recognizes in teams, 2 groups of members. During my project I was the person who was managing both the chicken and pig team by doing the managerial aspects and code part of the project.
+-Also, another process of agile methodology allowed me to write code that didn’t require much changes so as to incorporate new features. 
 The following mural image shows the whole summary of 4 weeks.
 
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/agile%20(2).png)
