@@ -11,7 +11,7 @@ Hosted on https://suhanaaaina.wixsite.com/gladiators
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Main%20website.png)
 
 # Gladiators main video page :
-![Example Image]()
+![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Video%20page.png)
 
 
 # Features :
