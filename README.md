@@ -7,6 +7,12 @@ Teams Clone : Gladiators! (A platform where you can video call, code and draw to
 
 Hosted on https://suhanaaaina.wixsite.com/gladiators
 
+# Main Website 
+![Example Image]()
+
+# Gladiators main video page :
+![Example Image]()
+
 
 # Features :
 
@@ -20,6 +26,8 @@ Hosted on https://suhanaaaina.wixsite.com/gladiators
 - Drawing palette Feature: The interface also consists of a whiteboard which all the members in the room can use to draw stuff. 
 - The whiteboard also contains multiple features like colorful pens, pens of different sizes, clear canvas, redo and undo drawing options.
 
+Total Number of incorporated features : 14.
+For detailed Demo and complete documentation refer to the 'Documentation' file in the repo.
 
 # Implementation Details :
 
