@@ -34,17 +34,7 @@ Total Number of incorporated features : 14.
 ![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Video%20page.png)
 
 
-# Implementation Details :
 
-Main Backend : Python Flask;
-FrontEnd : HTML + CSS + JS
-
-- Video call feature is implemented using Twilio API and WebRTC Technology, so as to implement webRTC in python (flask)
-- Live coding is implemented using cloud firestore of Google Firebase which makes the changes in real time.
-- Coding IDE is based on Ace.js javascript library, and executing is done using Judge0 API hosted on sntc servers.
-- Drawing Palette is implemented using WebSockets technology.
-- Other features such as Join Room, Leave room etc are also implemented using Flask and WebSockets
-- Chat feature is also implemented using WebSockets.
 
 # Agile Methodologies Used : 
 
