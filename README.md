@@ -28,12 +28,6 @@ Hosted on https://www.gladiatorswin.com/
 
 Total Number of incorporated features : 14.
 
-### For detailed Demo and complete documentation refer to the 'Documentation_Gladiators' file in the repo.
-
-# Video page :
-![Example Image](https://github.com/Tushika25/Gladiators/blob/main/Video%20page.png)
-
-
 
 
 # Agile Methodologies Used : 
