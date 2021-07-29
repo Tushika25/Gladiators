@@ -22,11 +22,11 @@ Hosted on https://www.gladiatorswin.com/
 - No.of participants Feature: Shows total number of participants in the room.
 - Active Participants Feature: shows the participants name who are active in the room.
 - Live Coding Feature: A coding IDE where all the people connected to a room can code simultaneously.
-- Code IDE with syntax highlighting Feature: Allows you to choose from a set of multiple languages and compilers, and highlights syntax on the basis of them. Also takes in customized input, runs the code and gives output.
+- Code IDE: Allows you to choose from a set of multiple languages and compilers. Also takes in customized input, runs the code and gives output.
 - Drawing palette Feature: The interface also consists of a whiteboard which all the members in the room can use to draw stuff. 
-- The whiteboard also contains multiple features like colorful pens, pens of different sizes, clear canvas, redo and undo drawing options.
 
-Total Number of incorporated features : 14.
+
+
 
 
 
